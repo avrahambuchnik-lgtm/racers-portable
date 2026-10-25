@@ -1,4 +1,4 @@
-# LEGO Racers, portable
+# LEGO Racers, portable 
 
 This initiative is a portable version of LEGO Racers (1999) based on the [decompilation project](https://github.com/isledecomp/racers). Our primary goal is to transform the codebase to achieve platform independence, thereby enhancing compatibility across various systems while preserving the original game's experience as faithfully as possible.
 
